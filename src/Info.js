@@ -4,20 +4,19 @@ const Info = () => {
 		<div class=" text-center text-3xl mt-20">
 			<div class="mb-10">
 				<div>
-					<span class="text-red-500">50</span>% of US Adults suffer from back
-					pain and it is the second most common reason for doctor visits
+					<span class="text-red-500">81</span>% of US Adults would be interested in technology that can sense elderly falls
 				</div>
 			</div>
 			<div class="mb-10">
 				<div>
-					<span class="text-red-500">25</span>% of back pain is caused by a
-					herniated disk, which can lead to muscular degeneration
+					Every&nbsp;
+					<span class="text-red-500">13&nbsp;</span>seconds an older adult is sent to the ER after a fall
 				</div>
 			</div>
 			<div class="mb-10">
 				<div>
-					More than&nbsp;
-					<span class="text-red-500">8&nbsp;</span>million people are affected by carpal tunnel syndrome each year
+					In 2015, the total medical costs for falls totaled more than $
+					<span class="text-red-500">50&nbsp;</span>billion
 				</div>
 			</div>
 		</div>

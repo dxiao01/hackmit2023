@@ -14,9 +14,9 @@ function App() {
 				</h1>
 
 				<p className="text-base md:text-lg lg:text-2xl mb-20">
-				Helping Hand is a suite of software meant to help consumers maintain proper posture when using computers. We hope you enjoy using our tool!
+					Guardian Angel is the world's first open-source application designed to save lives by detecting falls. By automating the process, we hope to save lives and improve the well-being of people everywhere.
 				</p>
-				<Video/>
+				<Video />
 			</main>
 			<Info />
 		</div>
