@@ -10,14 +10,14 @@ const Navbar = () => {
 							href="#posture"
 							class="hover:bg-black  text-white px-3 py-2 rounded-md font-large text-lg"
 						>
-							Posture
+
 						</a>
 
 						<a
 							href="#carpal"
 							class="hover:bg-black  text-white px-3 py-2 rounded-md text-lg font-medium"
 						>
-							Carpal Tunnel
+
 						</a>
 					</div>
 				</div>
