@@ -16,7 +16,7 @@ By using data-based trackers such as position, this application will adequately 
 
 ## 🧠 Development and Challenges
 
-The application overall was built using React, alongside TailwindCSS and ML5. Using the create-react-app boilerplate, we were able to minimize the initial setup and invest more time in fixing bugs. In general, the website works by obtaining the model, metadata, and weights from the tensorflow.js model, requests a webcam input, and then pushes that webcam input into the machine learning model. The result of the model, as well as the confidence, is then displayed to the user.
+The application overall was built using React, alongside TailwindCSS and ML5. Using the create-react-app boilerplate, we were able to minimize the initial setup and invest more time in fixing bugs. In general, the website works by obtaining the model, metadata, and weights from the tensorflow.js model, requests a webcam input and then pushes that webcam input into the machine learning model. The result of the model, as well as the confidence, is then displayed to the user.
 
 The machine learning side of the project was developed using TensorFlow through tensorflow.js. As a result, we were able to primarily focus on gathering proper samples for the model, rather than optimization. The samples used for training were gathered by capturing dozens of videos of people falling in various backgrounds, isolating the frames, and manually labeling the data. We also augmented the samples to improve the model's ability to generalize.
 
