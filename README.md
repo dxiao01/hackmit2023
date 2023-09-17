@@ -24,7 +24,7 @@ For training, we used around 5 epochs, a learning rate of 0.01, and a batch size
 
 We also ran into a few major challenges during the creation of the project. Firstly, the complexity of detecting movement made obtaining samples and training particularly difficult. Our solution was to gather a number of samples from different orientations, allowing for the model to be accurate in a wide variety of situations. Specifically speaking for the website, one of the main challenges we ran implementing video rendering within React. We were eventually able to implement our desired functionality using HTML videos, uncommon react dependency components, and complex Tensorflow-React interactions. 
 
-##🎖️ Accomplishments that we're proud of
+## 🎖️ Accomplishments that we're proud of
 
 First and foremost, we are proud of successfully completing the project while getting to meet with several mentors and knowledgeable professionals, such as the great teams at CareYaya and Y Combinator.
 
